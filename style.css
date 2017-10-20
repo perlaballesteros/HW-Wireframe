@@ -1,0 +1,115 @@
+body{
+	background-color: #777;
+}
+#container{
+	background-color:#777;
+	font-family:'arial', 'helvetica neue', helvetica, sans-serif;
+	font-size: 18px
+	max-width:960px;
+	max-height: 1024px;
+	margin: 0 auto;
+	padding:10px;
+
+	
+}
+
+header{
+	color:#777;
+	text-align:center;
+	background-color:#ebebeb;
+	width:920px;
+	margin:10px auto;
+	padding:20px;
+	
+}
+
+nav{
+	color:#777;
+	text-align:center;
+	background-color:#ebebeb;
+	width:920px;
+	margin:10px auto;
+	padding:20px;
+	
+}
+
+#section_aside{
+	text-align:center;
+	background-color:#777;
+	width:960px;
+	max-height:500px;
+	margin:0 auto;	
+}
+
+section{
+	color:#777;
+	text-align: center;
+	background-color:#ebebeb;
+	width: 495px;
+	height: 250px;
+	padding:10px;
+	
+
+}
+article{
+	color:#ebebeb;
+	text-align: center;
+	background-color:#777;
+	width: 450px;
+	margin: 10px auto;
+	padding:10px;
+
+	
+}
+
+h1 {
+	color:#777;
+	text-align: center;
+	background-color:#ebebeb;
+	width: 400px;
+	margin: 10px auto;
+	padding:10px;
+	
+	
+}
+
+p{
+	color:#777;
+	text-align: center;
+	background-color:#ebebeb;
+	width: 400px;
+	margin: 10px auto;
+	padding:10px;
+}
+aside{
+	color:#777;
+	text-align: center;
+	background-color:#ebebeb;
+	width: 400px;
+	height: 250px;
+	float:right;
+	padding:10px;
+
+	
+
+}
+
+.class{
+	clear:both;
+}
+footer{
+	
+	color:#777;
+	text-align: center;
+	background-color:#ebebeb;
+	width:920px;
+	margin:10px auto;
+	padding:20px;
+	
+
+}
+
+
+
+
+
